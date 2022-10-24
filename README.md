@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tariqul I Sagar</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 
-<p align="center"> <a margin:"0 10px" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tariqul-sagar" alt="tariqul-sagar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tariqul-sagar" alt="tariqul-sagar" /></a> </p>
 
-<p align="center"> <a margin:"0 10px" href="https://twitter.com/tariqulsagar_1" target="blank"><img src="https://img.shields.io/twitter/follow/tariqulsagar_1?logo=twitter&style=for-the-badge" alt="tariqulsagar_1" /></a> </p>
+<p align="center"> <a href="https://twitter.com/tariqulsagar_1" target="blank"><img src="https://img.shields.io/twitter/follow/tariqulsagar_1?logo=twitter&style=for-the-badge" alt="tariqulsagar_1" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks and Javascript**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/tariqulsagar_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tariqulsagar_1" height="30" width="40" /></a>
+<a margin:"0 10px" href="https://twitter.com/tariqulsagar_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tariqulsagar_1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tariqulsagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tariqulsagar" height="30" width="40" /></a>
 <a href="https://fb.com/tariqulsagar.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tariqulsagar.1" height="30" width="40" /></a>
 <a href="https://dribbble.com/tariqulsagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="tariqulsagar" height="30" width="40" /></a>
