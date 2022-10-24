@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tariqul I Sagar</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tariqul-sagar" alt="tariqul-sagar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tariqul-sagar" alt="tariqul-sagar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tariqulsagar_1" target="blank"><img src="https://img.shields.io/twitter/follow/tariqulsagar_1?logo=twitter&style=for-the-badge" alt="tariqulsagar_1" /></a> </p>
+<p align="center"> <a href="https://twitter.com/tariqulsagar_1" target="blank"><img src="https://img.shields.io/twitter/follow/tariqulsagar_1?logo=twitter&style=for-the-badge" alt="tariqulsagar_1" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks and Javascript**
 
