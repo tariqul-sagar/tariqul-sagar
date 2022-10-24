@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tariqul I Sagar</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tariqul-sagar" alt="tariqul-sagar" /></a> </p>
+<p align="center"> <a margin:"0 10px" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tariqul-sagar" alt="tariqul-sagar" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/tariqulsagar_1" target="blank"><img src="https://img.shields.io/twitter/follow/tariqulsagar_1?logo=twitter&style=for-the-badge" alt="tariqulsagar_1" /></a> </p>
+<p align="center"> <a margin:"0 10px" href="https://twitter.com/tariqulsagar_1" target="blank"><img src="https://img.shields.io/twitter/follow/tariqulsagar_1?logo=twitter&style=for-the-badge" alt="tariqulsagar_1" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks and Javascript**
 
@@ -63,6 +63,6 @@
 
 <p align="center"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tariqul-sagar&show_icons=true&locale=en&layout=compact" alt="tariqul-sagar" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tariqul-sagar&show_icons=true&locale=en" alt="tariqul-sagar" /></p>
+<p align="center">&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=tariqul-sagar&show_icons=true&locale=en" alt="tariqul-sagar" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tariqul-sagar&" alt="tariqul-sagar" /></p>
+<p align="center"><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tariqul-sagar&" alt="tariqul-sagar" /></p>
