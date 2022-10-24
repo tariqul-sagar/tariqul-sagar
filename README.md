@@ -1,6 +1,6 @@
+![Full Stack Web Developer](https://pbs.twimg.com/profile_banners/981568784388390912/1666605562/600x200)
 ### Hi there 👋, I'm Tariqul I Sagar
 #### Full Stack Web Developer
-![Full Stack Web Developer](https://pbs.twimg.com/profile_banners/981568784388390912/1666605562/600x200)
 
 I am a technological enthusiast who loves to work with technology. I am continuously attempt to discover out the get-up-and-go of any theme to learn it very well.
 
