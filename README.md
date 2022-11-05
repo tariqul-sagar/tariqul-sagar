@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://twitter.com/tariqulsagar_1" target="blank"><img src="https://img.shields.io/twitter/follow/tariqulsagar_1?logo=twitter&style=for-the-badge" alt="tariqulsagar_1" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks and Javascript**
+- 🌱 I’m currently learning **Javascript and it's Framework**
 
 - 👯 I’m looking to collaborate on **Github**
 
