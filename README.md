@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tariqul I Sagar</h1>
+<h1 align="center">Hi 👋, I'm Tariqul Sagar</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tariqul-sagar" alt="tariqul-sagar" /></a> </p>
