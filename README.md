@@ -27,7 +27,7 @@
 <a margin:"0 20px" href="https://dribbble.com/tariqulsagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="tariqulsagar" height="30" width="40" /></a>
 <a href="https://www.behance.net/tariqulsagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tariqulsagar" height="30" width="40" /></a>
 <a margin:"0 20px" href="https://medium.com/@tariqulsagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tariqulsagar" height="30" width="40" /></a>
-<a margin:"0 20px" href="https://www.hackerrank.com/tisagar11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tisagar11" height="30" width="40" /></a>
+<a margin:"0 20px" href="https://www.hackerrank.com/tariqul11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tisagar11" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Github Badges:</h3>
